@@ -1,0 +1,20 @@
+[
+    {
+        "name": "prueba1",
+        "shortcut": "iso_level3_shift",
+        "command": "spotify",
+        "color": "#e9162b"
+    },
+    {
+        "name": "prueba1",
+        "shortcut": "iso_level3_shift",
+        "command": "spotify",
+        "color": "#e9162b"
+    },
+    {
+        "name": "prueba2",
+        "shortcut": "f8",
+        "command": "spotify",
+        "color": "#3d2fd0"
+    }
+]
